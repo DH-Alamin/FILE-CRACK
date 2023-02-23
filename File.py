@@ -1,0 +1,2 @@
+import FILE
+FILE.F()
