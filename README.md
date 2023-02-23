@@ -3,6 +3,8 @@ File cloning tools new update... Ok Account and CP account mix.... Run tools and
 
 #tools run👇
 
+rm -rf FILE-CRACK
+
 git clone https://github.com/DH-Alamin/FILE-CRACK
 
 ls
@@ -11,4 +13,4 @@ cd FILE-CRACK
 
 ls
 
-python run.py
+python File.py
