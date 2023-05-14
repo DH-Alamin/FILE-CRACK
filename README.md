@@ -13,4 +13,4 @@ cd FILE-CRACK
 
 ls
 
-python File.py
+python run.py
